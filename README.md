@@ -77,6 +77,5 @@ class CPUactivity
 ## Output:
 ![Screenshot (90)](https://user-images.githubusercontent.com/75235022/167242805-2ed8dcfa-443a-4927-a32f-0a31a3bb2e83.png)
 
-
 ## Result:
 Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
